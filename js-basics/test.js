@@ -1,1 +1,2 @@
-console.log("utkarsh")
+console.log(b);
+const b = 12;

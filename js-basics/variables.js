@@ -2,7 +2,7 @@
 const accountId = 12344
 // assuming the value to be assigned
 let accountEmaiul = "jhvcusd@gmail.com"
-// thier value might cahnge in the future
+// thier value might change in the future
 var accountPassword = "12345"
 accountCity = "jaipur"
 let accountDetails;

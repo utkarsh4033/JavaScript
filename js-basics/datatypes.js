@@ -3,11 +3,11 @@
 // mdn tc39 
 // preemptive datatypes
 
-// NUmber => Integer value 
+// NUmber => Integer value (2 to the power 53)
 // bigInt => big integer value
 // string => ""
 // boolean => true/false
-// undefined => value is not defined
+// undefined => value is declared but not assigned any value
 // symbol => for unique values
 // null => Stand alone value
 //  object 
